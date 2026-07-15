@@ -1,6 +1,6 @@
 # 构建基础配置
 [build]
-  base = ""
+  base = "front"
   command = "npm run build"
   publish = "dist"
   functions = "netlify/functions"
